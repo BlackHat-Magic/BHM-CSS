@@ -1,3 +1,17 @@
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/accordion.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/banners.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/copy_btn.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/date_picker.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/dropdown.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/hovercard.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/menubar.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/modal.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/popover.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/radio_group.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/sidebar.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/tabs.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.1/toggle_switch.css");
+
 /* === CSS Variables and Reset === */
 :root {
     /* Catppuccin Latte (Light) */
@@ -73,6 +87,7 @@
     --radius-xl: 0.75rem;
     --radius-full: 9999px;
 }
+
 [x-cloak] { 
     display: none !important; 
 }
@@ -686,6 +701,11 @@ html.dark-theme .password-strength-bar.very-strong {
 
 .mx-auto { margin-left: auto; margin-right: auto; }
 
+.w-auto { width: auto; }
+.w-48 { width: 12rem; }
+.w-56 { width: 14rem; }
+.w-64 { width: 16rem; }
+
 .text-center { text-align: center; }
 .text-right { text-align: right; }
 
@@ -756,7 +776,6 @@ html.dark-theme .password-strength-bar.very-strong {
 }
 
 /* === Custom Radio Button Styling === */
-
 /* Hide the default radio button */
 .radiogroup-input {
     appearance: none;
