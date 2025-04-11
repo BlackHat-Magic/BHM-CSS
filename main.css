@@ -1,18 +1,19 @@
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/accordion.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/banner.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/copy_btn.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/date_picker.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/dropdown.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/hovercard.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/menubar.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/modal.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/popover.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/radio_group.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/sidebar.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/tabs.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/toggle_switch.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/table.css");
-@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@latest/pagination.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/accordion.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/banner.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/copy_btn.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/date_picker.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/dropdown.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/hovercard.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/menubar.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/modal.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/popover.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/radio_group.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/sidebar.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/tabs.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/toggle_switch.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/table.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/pagination.css");
+@import url("https://cdn.jsdelivr.net/gh/BlackHat-Magic/BHM-CSS@0.1.7/indicator.css");
 
 /* === CSS Variables and Reset === */
 :root {
