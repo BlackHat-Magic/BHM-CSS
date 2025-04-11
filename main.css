@@ -723,6 +723,21 @@ html.dark-theme .password-strength-bar.very-strong {
 .grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
 .grid-cols-4 { grid-template-columns: repeat(4, 1fr); }
 
+/* Add these to your utility classes section */
+.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+/* For pagination specifically */
+.pagination-link.disabled {
+    color: var(--text-secondary);
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
 /* === Responsive Styles === */
 @media (max-width: 768px) {
     .grid-cols-4 { grid-template-columns: repeat(2, 1fr); }
